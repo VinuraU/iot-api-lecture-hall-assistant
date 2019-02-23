@@ -25,6 +25,8 @@ This project is to overcome the common audio issues in lecture halls in developi
 
 ### Repository Introduction
 
+This API is developed using Slim Framework.
+
 #### API
 API used to commucate with the Arduino Devices via HTTP protocol. All the switches, sensors and controllers communicate with central system using the API.
 
